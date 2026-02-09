@@ -24,7 +24,7 @@ pip install requests
 pip install pyfiglet
 ```
 ```
-wget https://raw.githubusercontent.com/DamnYatin/Instagram-Reports/main/reports.py
+git clone https://github.com/prateeksingh0537-afk/insta-report.git
 ```
 ```
 python3 reports.py
